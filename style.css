@@ -1,0 +1,46 @@
+body {
+    background: skyblue;
+}
+
+.box {
+
+
+    border: 1px solid black;
+    height: 20px;
+
+}
+
+.box-yellow {
+    background: yellow;
+    border: 1px solid black;
+    height: 20px;
+
+}
+
+.box-green {
+    background: green;
+    border: 1px solid black;
+    height: 20px;
+
+}
+
+.box-red {
+    background: red;
+    border: 1px solid black;
+    height: 20px;
+
+}
+
+.box-black {
+    background: black;
+    border: 1px solid black;
+    height: 20px;
+
+}
+
+.box-white {
+    background: #fff;
+    border: 1px solid black;
+    height: 20px;
+
+}
