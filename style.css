@@ -5,42 +5,42 @@ body {
 .box {
 
 
-    border: 1px solid black;
+
     height: 22px;
 
 }
 
 .box-yellow {
     background: yellow;
-    border: 1px solid black;
+
     height: 22px;
 
 }
 
 .box-green {
     background: green;
-    border: 1px solid black;
+
     height: 22px;
 
 }
 
 .box-red {
     background: red;
-    border: 1px solid black;
+
     height: 22px;
 
 }
 
 .box-black {
     background: black;
-    border: 1px solid black;
+
     height: 22px;
 
 }
 
 .box-white {
     background: #fff;
-    border: 1px solid black;
+
     height: 22px;
 
 }
